@@ -7,7 +7,7 @@ If you will any question, you can email to me.
 
 # How to use
 
-You can saw [FloatButtonLayout]()https://github.com/Kuan-Wei-Kuo/SimpleFloatButton/blob/master/app/src/main/java/com/kuo/simplefloatbutton/FloatButtonLayout.java, it's a buttons manager.
+You can see [FloatButtonLayout](https://github.com/Kuan-Wei-Kuo/SimpleFloatButton/blob/master/app/src/main/java/com/kuo/simplefloatbutton/FloatButtonLayout.java), it's a buttons manager.
 
 Step 1. Add button in view.
 
